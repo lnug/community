@@ -1,7 +1,7 @@
 # Feedback
 
 ## Help! We need your feedback
-We strive to continue to improve LNUG, however, we need your help by giving us you feedback, good and bad.  
+We strive to improve LNUG, however, we need your help.  Please provide us with your feedback, good or bad.  
 
 ## How
 [Open an issue](https://github.com/lnug/feedback/issues/new) and let us know what's on yor mind. 

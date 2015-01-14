@@ -1,11 +1,20 @@
-feedback
-========
+# Feedback
 
-##Help us make the user group better
+## Help! We need your feedback
+We strive to continue to improve LNUG, however, we need your help by giving us you feedback, good and bad.  
 
-Open an issue on this repo (right hand side) and leave a message, concern, feedback, hatemail, lovemail!
+## How
+[Open an issue](https://github.com/lnug/feedback/issues/new) and let us know what's on yor mind. 
 
-We review all issues and take steps to improve, month after month!
+- Concerns
+- Improvemtents
+- Venue
+- Hatemail
+- Lovemail!
 
-###Thank you!
-**LNUG team**
+We really do review all issues and try to take action, no matter how small they may seem!
+
+Thanks,
+<3 LNUGorg team
+
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/lnug/discuss)

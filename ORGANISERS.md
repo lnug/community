@@ -74,5 +74,5 @@ We are here to answer any questions you have, however we are specifically focuse
 ## Catering
 
 ##### Adam Davis
-- Twitter: @massimilianomura
-- GitHub: @massimilianomura
+- Twitter: @admataz
+- GitHub: @admataz

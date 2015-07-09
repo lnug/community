@@ -19,6 +19,10 @@ Have a more specific question but not sure who to ask?
 
 Find the team on our [Organisation Chart](https://github.com/lnug/feedback/blob/master/ORGANISERS.md).
 
+## You
+You can help us out in many ways, easily get started by reading the [Participating Guide](https://github.com/lnug/feedback/blob/master/PARTICIPATING.md).
+
+
 Thanks,
 <3 LNUGorg team
 

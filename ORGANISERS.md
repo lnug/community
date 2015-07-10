@@ -18,7 +18,7 @@ We are here to answer any questions you have, however we are specifically focuse
 ## Registration
 
 ##### Jon Kelly
-- Twitter: @jkbits1
+- Twitter: @jsnightowl
 - GitHub: @jkbits1
 
 ##### Simon McManus

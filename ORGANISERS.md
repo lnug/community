@@ -39,8 +39,8 @@ We are here to answer any questions you have, however we are specifically focuse
 
 ## UX & Design
 
-##### Maxwell Ito
-- Twitter: @maxwellito
+##### Max Duluc (maxwellito)
+- Twitter: @mxwllt
 - GitHub: @maxwellito
 
 ##### Ben Byford

@@ -15,6 +15,10 @@ We are here to answer any questions you have, however we are specifically focuse
 - Twitter: @orliesaurus
 - GitHub: @orliesaurus
 
+##### Oli Evans
+- Twitter: [@olizilla](http://twitter.com/olizilla)
+- GitHub: [@olizilla](http://github.com/olizilla)
+
 ## Registration
 
 ##### Jon Kelly

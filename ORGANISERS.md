@@ -12,8 +12,8 @@ We are here to answer any questions you have, however we are specifically focuse
 - GitHub: [@iancrowther](http://github.com/iancrowther)
 
 ##### Orlando K
-- Twitter: @orliesaurus
-- GitHub: @orliesaurus
+- Twitter: [@orliesaurus](http://twitter.com/orliesaurus)
+- GitHub: [@orliesaurus](http://github.com/orliesaurus)
 
 ##### Oli Evans
 - Twitter: [@olizilla](http://twitter.com/olizilla)
@@ -22,61 +22,68 @@ We are here to answer any questions you have, however we are specifically focuse
 ## Registration
 
 ##### Jon Kelly
-- Twitter: @jsnightowl
-- GitHub: @jkbits1
+- Twitter: [@jsnightowl](http://twitter.com/jsnightowl)
+- GitHub: [@jkbits1](http://github.com/jkbits1)
 
 ##### Simon McManus
-- Twitter: @simonmcmanus
-- GitHub: @simonmcmanus
+- Twitter: [@simonmcmanus](http://twitter.com/simonmcmanus)
+- GitHub: [@simonmcmanus](http://github.com/simonmcmanus)
 
 ## Website
 
 ##### Graham Veal
-- Twitter: @web-bert
-- GitHub: @web-bert
+- Twitter: [@web-bert](http://twitter.com/web-bert)
+- GitHub: [@web-bert](http://github.com/web-bert)
+
+
+## Newsletter and mailers
+##### Adam Davis
+- Twitter: [@admataz](http://twitter.com/admataz)
+- GitHub: [@admataz](http://github.com/admataz)
+
 
 ## Video Recordigns & YouTube
 
 ##### Johnny Bridges
-- Twitter: @johnnybridges
-- GitHub: @johnnybridges
+- Twitter: [@johnnybridges](http://twitter.com/johnnybridges)
+- GitHub: [@johnnybridges](http://github.com/johnnybridges)
 
 ## UX & Design
 
 ##### Max Duluc (maxwellito)
-- Twitter: @mxwllt
-- GitHub: @maxwellito
+- Twitter: [@mxwllt](http://twitter.com/mxwllt)
+- GitHub: [@maxwellito](http://github.com/maxwellito)
 
 ##### Ben Byford
-- Twitter: @benbyford
-- GitHub: @benbyford
+- Twitter: [@benbyford](http://twitter.com/benbyford)
+- GitHub: [@benbyford](http://github.com/benbyford)
 
 ## Twitter
 
 ##### Andy Trevorah
-- Twitter: @trevorah
-- GitHub: @trevorah
+- Twitter: [@trevorah](http://twitter.com/trevorah)
+- GitHub: [@trevorah](http://github.com/trevorah)
 
 ## Gitter
 
 ##### Alan Shaw
-- Twitter: @alanshaw
-- GitHub: @alanshaw
+- Twitter: [@alanshaw](http://twitter.com/alanshaw)
+- GitHub: [@alanshaw](http://github.com/alanshaw)
 
 ## Instagram
 
 ##### Tom Gallagher
-- Twitter: @tomgco
-- GitHub: @tomgco
+- Twitter: [@tomgco](http://twitter.com/tomgco)
+- GitHub: [@tomgco](http://github.com/tomgco)
 
 ## Lanyard
 
 ##### Massimiliano Mura
-- Twitter: @massimilianomura
-- GitHub: @massimilianomura
+- Twitter: [@massimilianomura](http://twitter.com/massimilianomura)
+- GitHub: [@massimilianomura](http://github.com/massimilianomura)
 
 ## Catering
 
 ##### Adam Davis
-- Twitter: @admataz
-- GitHub: @admataz
+- Twitter: [@admataz](http://twitter.com/admataz)
+- GitHub: [@admataz](http://github.com/admataz)

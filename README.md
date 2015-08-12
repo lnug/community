@@ -7,7 +7,7 @@ We strive to improve LNUG, however, we need your help.  Please provide us with y
 [Open an issue](https://github.com/lnug/feedback/issues/new). 
 
 - Concerns
-- Improvemtents
+- Improvements
 - Venue
 - Hatemail
 - Lovemail!

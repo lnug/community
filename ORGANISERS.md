@@ -42,7 +42,7 @@ We are here to answer any questions you have, however we are specifically focuse
 - GitHub: [@admataz](http://github.com/admataz)
 
 
-## Video Recordigns & YouTube
+## Video Recordings & YouTube
 
 ##### Johnny Bridges
 - Twitter: [@johnnybridges](http://twitter.com/johnnybridges)

@@ -31,7 +31,7 @@ If you are the owner of a task, please try and pair up on each task in case your
 - Twitter: [@simonmcmanus](http://twitter.com/simonmcmanus)
 - GitHub: [@simonmcmanus](http://github.com/simonmcmanus)
 
-## Newsletter and mailers
+## Maillist
 ##### Adam Davis
 - Twitter: [@admataz](http://twitter.com/admataz)
 - GitHub: [@admataz](http://github.com/admataz)

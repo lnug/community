@@ -66,6 +66,10 @@ We are here to answer any questions you have, however we are specifically focuse
 
 ##### TBA
 
+## Attending
+
+##### TBA
+
 ## Catering
 
 ##### Adam Davis

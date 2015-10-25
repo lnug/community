@@ -36,6 +36,10 @@ We are here to answer any questions you have, however we are specifically focuse
 - Twitter: [@admataz](http://twitter.com/admataz)
 - GitHub: [@admataz](http://github.com/admataz)
 
+##### Olu Niyi-Awosusi
+- Twitter: [@oluoluoxenfree](http://twitter.com/oluoluoxenfree)
+- GitHub: [@oluoluoxenfree](http://github.com/oluoluoxenfree)
+
 ## Video Recordings & YouTube
 
 ##### Johnny Bridges
@@ -72,7 +76,9 @@ We are here to answer any questions you have, however we are specifically focuse
 
 ## Attending
 
-##### TBA
+##### Olu Niyi-Awosusi
+- Twitter: [@oluoluoxenfree](http://twitter.com/oluoluoxenfree)
+- GitHub: [@oluoluoxenfree](http://github.com/oluoluoxenfree)
 
 ## Catering
 

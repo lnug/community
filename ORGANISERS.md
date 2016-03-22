@@ -85,3 +85,9 @@ We are here to answer any questions you have, however we are specifically focuse
 ##### Adam Davis
 - Twitter: [@admataz](http://twitter.com/admataz)
 - GitHub: [@admataz](http://github.com/admataz)
+
+## Other
+
+##### Clarkie
+- Twitter: [@clarkieclarkie](http://twitter.com/clarkieclarkie)
+- GitHub: [@clarkie](http://github.com/clarkie)

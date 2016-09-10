@@ -1,12 +1,9 @@
-# LNUG Organisational Breakdown
+# Contact
 
 ## LNUG Contact Details
 - Email: contact@lnug.org
 - Twitter: @LNUGorg
 
-```
-If you are the owner of a task, please try and pair up on each task in case your are sick, on holiday or just need a break and ensure they are in attendance!
-```
 
 ## Maintainers
 We are here to answer any questions you have, however we are specifically focused on speakers, sponsorship or event space.

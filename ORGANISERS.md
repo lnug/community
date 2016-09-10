@@ -5,9 +5,6 @@
 - Twitter: @LNUGorg
 
 
-## Maintainers
-We are here to answer any questions you have, however we are specifically focused on speakers, sponsorship or event space.
-
 ##### Ian Crowther
 - Twitter: [@iancrowther](http://twitter.com/iancrowther)
 - GitHub: [@iancrowther](http://github.com/iancrowther)

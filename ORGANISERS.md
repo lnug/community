@@ -1,18 +1,7 @@
 # Contact
 
 ## LNUG Contact Details
-- Email: contact@lnug.org
-- Twitter: @LNUGorg
-
-
-##### Ian Crowther
-- Twitter: [@iancrowther](http://twitter.com/iancrowther)
-- GitHub: [@iancrowther](http://github.com/iancrowther)
-
-##### Oli Evans
-- Twitter: [@olizilla](http://twitter.com/olizilla)
-- GitHub: [@olizilla](http://github.com/olizilla)
-
+- Twitter: [@LNUGorg](http://twitter.com/LNUGorg)
 ## Registration
 
 ##### Jon Kelly
@@ -56,18 +45,6 @@
 - Twitter: [@trevorah](http://twitter.com/trevorah)
 - GitHub: [@trevorah](http://github.com/trevorah)
 
-## Gitter
-
-##### TBA
-
-## Instagram
-
-##### TBA
-
-## Lanyard
-
-##### TBA
-
 ## Attending
 
 ##### Olu Niyi-Awosusi
@@ -85,3 +62,11 @@
 ##### Clarkie
 - Twitter: [@clarkieclarkie](http://twitter.com/clarkieclarkie)
 - GitHub: [@clarkie](http://github.com/clarkie)
+
+##### Ian Crowther
+- Twitter: [@iancrowther](http://twitter.com/iancrowther)
+- GitHub: [@iancrowther](http://github.com/iancrowther)
+
+##### Oli Evans
+- Twitter: [@olizilla](http://twitter.com/olizilla)
+- GitHub: [@olizilla](http://github.com/olizilla)

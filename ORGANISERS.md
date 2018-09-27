@@ -1,72 +1,66 @@
 # Contact
+@achingbrain
+Alex Potsides achingbrain
 
-## LNUG Contact Details
-- Twitter: [@LNUGorg](http://twitter.com/LNUGorg)
-## Registration
+@admataz
+Adam Davis admataz Maintainer
 
-##### Jon Kelly
-- Twitter: [@jsnightowl](http://twitter.com/jsnightowl)
-- GitHub: [@jkbits1](http://github.com/jkbits1)
+@alanshaw
+Alan Shaw alanshaw
 
-## Website
+@anniva
+Anni Väänänen anniva
 
-##### Simon McManus
-- Twitter: [@simonmcmanus](http://twitter.com/simonmcmanus)
-- GitHub: [@simonmcmanus](http://github.com/simonmcmanus)
+@bettiolo
+Marco Bettiolo bettiolo
 
-## Maillist
-##### Adam Davis
-- Twitter: [@admataz](http://twitter.com/admataz)
-- GitHub: [@admataz](http://github.com/admataz)
+@claireinez
+Claire Mitchell claireinez
 
-##### Olu Niyi-Awosusi
-- Twitter: [@oluoluoxenfree](http://twitter.com/oluoluoxenfree)
-- GitHub: [@oluoluoxenfree](http://github.com/oluoluoxenfree)
+@clarkie
+Clarkie clarkie Maintainer
 
-## Video Recordings & YouTube
+@elischutze
+Eli Schutze elischutze
 
-##### Johnny Bridges
-- Twitter: [@johnnybridges](http://twitter.com/johnnybridges)
-- GitHub: [@johnnybridges](http://github.com/johnnybridges)
+@FabioAntunes
+Fábio Antunes FabioAntunes
 
-## UX & Design
+@graycodes
+Gray graycodes
 
-##### Max Duluc (maxwellito)
-- Twitter: [@mxwllt](http://twitter.com/mxwllt)
-- GitHub: [@maxwellito](http://github.com/maxwellito)
+@heron2014
+Anita heron2014
 
-##### Ben Byford
-- Twitter: [@benbyford](http://twitter.com/benbyford)
-- GitHub: [@benbyford](http://github.com/benbyford)
+@iancrowther
+Ian Crowther iancrowther Maintainer
 
-## Twitter
+@Istar-Eldritch
+Ruben Paz Istar-Eldritch
 
-##### Andy Trevorah
-- Twitter: [@trevorah](http://twitter.com/trevorah)
-- GitHub: [@trevorah](http://github.com/trevorah)
+@jamesporter
+James Porter jamesporter
 
-## Attending
+@jkbits1
+Jon Kelly jkbits1 Maintainer
 
-##### Olu Niyi-Awosusi
-- Twitter: [@oluoluoxenfree](http://twitter.com/oluoluoxenfree)
-- GitHub: [@oluoluoxenfree](http://github.com/oluoluoxenfree)
+@lazlojuly
+lazlojuly lazlojuly
 
-## Catering
+@MattJLeach
+Matt Leach MattJLeach
 
-##### Adam Davis
-- Twitter: [@admataz](http://twitter.com/admataz)
-- GitHub: [@admataz](http://github.com/admataz)
+@olizilla
+Oli Evans olizilla Maintainer
 
-## Other
+@orliesaurus
+orliesaurus Maintainer
 
-##### Clarkie
-- Twitter: [@clarkieclarkie](http://twitter.com/clarkieclarkie)
-- GitHub: [@clarkie](http://github.com/clarkie)
+@Silverwolf90
+Cyril Silverman Silverwolf90
 
-##### Ian Crowther
-- Twitter: [@iancrowther](http://twitter.com/iancrowther)
-- GitHub: [@iancrowther](http://github.com/iancrowther)
+@simonmcmanus
+Simon McManus simonmcmanus Maintainer
 
-##### Oli Evans
-- Twitter: [@olizilla](http://twitter.com/olizilla)
-- GitHub: [@olizilla](http://github.com/olizilla)
+@trevorah
+Andy Trevorah trevorah

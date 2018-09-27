@@ -1,66 +1,66 @@
 # Contact
 @achingbrain
-Alex Potsides achingbrain
+Alex Potsides 
 
 @admataz
-Adam Davis admataz Maintainer
+Adam Davis  
 
 @alanshaw
-Alan Shaw alanshaw
+Alan Shaw 
 
 @anniva
-Anni Väänänen anniva
+Anni Väänänen 
 
 @bettiolo
-Marco Bettiolo bettiolo
+Marco Bettiolo 
 
 @claireinez
-Claire Mitchell claireinez
+Claire Mitchell 
 
 @clarkie
-Clarkie clarkie Maintainer
+Clarkie  
 
 @elischutze
-Eli Schutze elischutze
+Eli Schutze 
 
 @FabioAntunes
-Fábio Antunes FabioAntunes
+Fábio Antunes 
 
 @graycodes
-Gray graycodes
+Gray 
 
 @heron2014
-Anita heron2014
+Anita 
 
 @iancrowther
-Ian Crowther iancrowther Maintainer
+Ian Crowther  
 
 @Istar-Eldritch
-Ruben Paz Istar-Eldritch
+Ruben Paz 
 
 @jamesporter
-James Porter jamesporter
+James Porter 
 
 @jkbits1
-Jon Kelly jkbits1 Maintainer
+Jon Kelly  
 
 @lazlojuly
-lazlojuly lazlojuly
+lazlojuly 
 
 @MattJLeach
-Matt Leach MattJLeach
+Matt Leach 
 
 @olizilla
-Oli Evans olizilla Maintainer
+Oli Evans  
 
 @orliesaurus
-orliesaurus Maintainer
+orliesaurus 
 
 @Silverwolf90
-Cyril Silverman Silverwolf90
+Cyril Silverman 
 
 @simonmcmanus
-Simon McManus simonmcmanus Maintainer
+Simon McManus  
 
 @trevorah
-Andy Trevorah trevorah
+Andy Trevorah 

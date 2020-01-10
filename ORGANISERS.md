@@ -1,66 +1,17 @@
 # Contact
-@achingbrain
-Alex Potsides 
+- [contact@lnug.org](mailto:contact@lnug.org)
+- Twitter: [@lnugorg](https://twitter.com/lnugorg)
+- GitHub: [@lnug](https://github.com/lnug)
 
-@admataz
-Adam Davis  
 
-@alanshaw
-Alan Shaw 
+## Organisers: 
+- Adam Davis  
+- Hew Ingram
+- Thomas Ankcorn
+- Sean Tracey
+- Claire Mitchell
+- Clarkie
+- Andy Trevorah
+- Simon McManus
+- Aga
 
-@anniva
-Anni Väänänen 
-
-@bettiolo
-Marco Bettiolo 
-
-@claireinez
-Claire Mitchell 
-
-@clarkie
-Clarkie  
-
-@elischutze
-Eli Schutze 
-
-@FabioAntunes
-Fábio Antunes 
-
-@graycodes
-Gray 
-
-@heron2014
-Anita 
-
-@iancrowther
-Ian Crowther  
-
-@Istar-Eldritch
-Ruben Paz 
-
-@jamesporter
-James Porter 
-
-@jkbits1
-Jon Kelly  
-
-@lazlojuly
-lazlojuly 
-
-@MattJLeach
-Matt Leach 
-
-@olizilla
-Oli Evans  
-
-@orliesaurus
-orliesaurus 
-
-@Silverwolf90
-Cyril Silverman 
-
-@simonmcmanus
-Simon McManus  
-
-@trevorah
-Andy Trevorah 

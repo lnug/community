@@ -4,7 +4,7 @@
 We strive to improve LNUG, however, we need your help.  Please provide us with your feedback, good or bad.  
 
 ## How
-[Open an issue](https://github.com/lnug/feedback/issues/new). 
+[Open a discussion](https://github.com/lnug/community/discussions). 
 
 - Concerns
 - Improvements
@@ -17,10 +17,10 @@ We really do review all the issues and try to make things better, no matter how 
 ## Who
 Have a more specific question but not sure who to ask?  
 
-Find the team on our [Organisers list](https://github.com/lnug/feedback/blob/master/ORGANISERS.md).
+Find the team on our [Organisers list](https://github.com/lnug/community/blob/master/ORGANISERS.md).
 
 ## You
-You can help us out in many ways, easily get started by reading the [Participating Guide](https://github.com/lnug/feedback/blob/master/PARTICIPATING.md).
+You can help us out in many ways, easily get started by reading the [Participating Guide](https://github.com/lnug/community/blob/master/PARTICIPATING.md).
 
 
 Thanks,
